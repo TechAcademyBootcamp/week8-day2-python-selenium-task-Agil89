@@ -1,0 +1,58 @@
+1591096582694	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNFN6nN"
+1591096587834	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591096589715	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591096589715	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591096589715	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591096589715	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591096596332	Marionette	INFO	Listening on port 45259
+1591096596435	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591096611255	Marionette	INFO	Stopped listening on port 45259
+1591096847763	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKDjo4b"
+1591096848378	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591096849816	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591096849816	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591096849816	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591096849816	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591096852116	Marionette	INFO	Listening on port 37159
+1591096852176	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591096866639	Marionette	INFO	Stopped listening on port 37159
+1591097044010	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebIQlMl"
+1591097044683	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591097046093	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591097046093	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591097046094	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591097046094	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591097048501	Marionette	INFO	Listening on port 45215
+1591097048522	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591097074304	Marionette	INFO	Stopped listening on port 45215
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iXZG4/ym/l/az_AZ/sfXAbGILR9jHvyJlegsu9DG7Ktspc0oR1LvUFwfkgTxzOoKWLFNsjPmJxcghj3N1si5ULSAUreRy8BqmCOxwevVSM_SNzZKAKzJ5wtt1oVaplWOJfPYaRZ-obGLRDLbHOxMzvS3k4zwVH7jB2l0IJXcTuCVjOGiKtnOZynUz9koglAuak5YfJah5qvJ9I2WL1IWhbsQC768HA5uqMqpSXvMNyHIoKcOhE2VphWSnPOgEV5Jvb4NpQuYRiksM9cpxGafjSNNvbuErNxRFahaKhyNXLiugb0FGEEsvakKVT9iTQuVv7caeWBSNJAvGB1KKN-L-u-Kf8K.js?_nc_x=OZwQ1l1Wq6O, line 825: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3isWP4/yn/l/az_AZ/xwF6EhMMfckbzJlu_1xpnVTcOQ77NpnHtJ1mZG9GcJgd.js?_nc_x=OZwQ1l1Wq6O, line 210: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_INVALID_STATE_ERR (0x8053000b) - MediaLoadInvalidURI
+1591097353032	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAhJ02y"
+1591097353667	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591097355120	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591097355120	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591097355121	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591097355121	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591097357441	Marionette	INFO	Listening on port 33285
+1591097357545	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591097370197	Marionette	INFO	Stopped listening on port 33285
+1591098235094	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKIKvE6"
+1591098235742	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591098237287	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591098237288	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591098237288	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591098237288	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591098240077	Marionette	INFO	Listening on port 33937
+1591098240110	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591098456410	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFN4d8T"
+1591098457105	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591098458690	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591098458690	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591098458691	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591098458691	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591098460967	Marionette	INFO	Listening on port 40041
+1591098461030	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591098483966	Marionette	INFO	Stopped listening on port 40041
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1591098489277	Marionette	INFO	Stopped listening on port 33937

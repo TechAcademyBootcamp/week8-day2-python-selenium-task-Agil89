@@ -1,8 +1,3 @@
-# website login
-## Create a bot with sign in from `http://35.225.243.133/admin/login/`.
+# facebook login
 
-### Credentials
-```
-    username: student
-    password: qatester
-```
+Create a bot with a login on Facebook with your personal account information.
